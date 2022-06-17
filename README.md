@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @ItsDavGG
+- I'm New To Javascript
